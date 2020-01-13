@@ -5,7 +5,7 @@
 =end
 
 puts "On va compter le nombre d'heures de travail à THP" #cette ligne imprime du texte en rajouton un retour a la ligne a la fin
-puts "Travail : #{10 * 5 * 11}" #les mult
+puts "Travail : #{10 * 5 * 11}" #les multiplication contenu
 puts "En minutes ça fait : #{10 * 5 * 11 * 60}"
 
 puts "Et en secondes ?"
