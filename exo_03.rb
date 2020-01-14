@@ -1,3 +1,8 @@
 # coding: utf-8
-puts "Bonjour , monde !" #puts Rajoute un retour a la ligne a la fin du text
-print "Et avec une voix sexy, ça donne : Bonjour, monde !" #print ne rajoute pas de retour a la ligne
+puts "Bonjour , monde !"
+
+#print "Et avec une voix sexy, ça donne : Bonjour, monde !"
+
+=begin
+    Ajouter # devant une ligne permet de la mettre en commentaire
+=end
