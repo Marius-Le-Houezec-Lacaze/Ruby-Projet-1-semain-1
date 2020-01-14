@@ -3,9 +3,10 @@ puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
 print ">"
 
 i = gets.chomp.to_i
-n = 1
-while n <= i
-  puts ("#" * n)
-  n += 1
-end
+n = i 
+etage = 0
 
+while etage != (i+1) 
+  puts " "*(i-etage)+"#"*etage
+  etage += 1
+end
