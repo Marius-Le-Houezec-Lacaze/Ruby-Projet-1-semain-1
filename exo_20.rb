@@ -4,6 +4,7 @@ print ">"
 
 i = gets.chomp.to_i
 n = 1
+puts "Voici la pyramide :"
 while n <= i
   puts ("#" * n)
   n += 1

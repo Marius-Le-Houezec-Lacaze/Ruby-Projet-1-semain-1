@@ -5,7 +5,7 @@ print ">"
 i = gets.chomp.to_i
 n = i 
 etage = 0
-
+puts "Voice la pyramide:"
 while etage != (i+1) 
   puts " "*(i-etage)+"#"*etage
   etage += 1

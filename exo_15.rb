@@ -1,6 +1,6 @@
 # coding: utf-8
 
-print "Entre une année :"
+print "Entre ton année de naissance :"
 
 year = gets.chomp.to_i
 i = 0
