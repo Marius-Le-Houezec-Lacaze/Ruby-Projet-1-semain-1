@@ -2,7 +2,7 @@
 
 =begin
     #{} est un marqueur interpolation il permet d'executer n'importe quelle code a l'interieur du texte
-    Dans le cas present ils execure les expression mathematique contenu entre les {}
+    Dans le cas present ils execute les expression mathematique contenu entre les {}
 =end
 
 
