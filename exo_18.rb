@@ -1,8 +1,7 @@
 
-print "enter email name:"
-prefix = gets.chomp
+prefix = "jean.dupont"
 arr = Array.new(50)
-i = 0
+i = 1
 
 while i <= 50
   if(i < 10)

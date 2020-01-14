@@ -1,6 +1,4 @@
-
-print "enter email name:"
-prefix = gets.chomp
+prefix = "jean.dupont"
 arr = Array.new(50)
 i = 1
 

@@ -1,8 +1,7 @@
 
 print "Entre un nombre:"
 nb = gets.chomp.to_i
-i = 0
-
+i = 1
 
 while i <= nb
   puts i
